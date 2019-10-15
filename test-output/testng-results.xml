@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="kong Api" duration-ms="2040" started-at="2019-03-22T10:30:29Z" finished-at="2019-03-22T10:30:31Z">
+    <groups>
+    </groups>
+    <test name="Tests" duration-ms="2040" started-at="2019-03-22T10:30:29Z" finished-at="2019-03-22T10:30:31Z">
+      <class name="WeatherService.ExternalApiController.GfsGlobal">
+        <test-method status="PASS" signature="getTest(java.util.HashMap)[pri:0, instance:WeatherService.ExternalApiController.GfsGlobal@6e3c1e69]" name="getTest" duration-ms="891" started-at="2019-03-22T18:30:29Z" description="231231" data-provider="ApiData" finished-at="2019-03-22T18:30:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{caseID=Test001, latitude=47, length=24, description=风速, startTime=2019-03-20T16:00:00Z, sourceAttributes=WS, longitude=22}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method status="PASS" signature="getTest(java.util.HashMap)[pri:0, instance:WeatherService.ExternalApiController.GfsGlobal@6e3c1e69]" name="getTest" duration-ms="84" started-at="2019-03-22T18:30:30Z" description="231231" data-provider="ApiData" finished-at="2019-03-22T18:30:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{caseID=Test002, latitude=9, length=24, description=风向, startTime=2019-03-20T16:00:00Z, sourceAttributes=WD, longitude=110}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method status="PASS" signature="getTest(java.util.HashMap)[pri:0, instance:WeatherService.ExternalApiController.GfsGlobal@6e3c1e69]" name="getTest" duration-ms="82" started-at="2019-03-22T18:30:30Z" description="231231" data-provider="ApiData" finished-at="2019-03-22T18:30:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{caseID=Test003, latitude=9, length=24, description=, startTime=2019-03-20T16:00:00Z, sourceAttributes=PRES, longitude=110}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method status="PASS" signature="getTest(java.util.HashMap)[pri:0, instance:WeatherService.ExternalApiController.GfsGlobal@6e3c1e69]" name="getTest" duration-ms="76" started-at="2019-03-22T18:30:31Z" description="231231" data-provider="ApiData" finished-at="2019-03-22T18:30:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{caseID=Test004, latitude=9, length=24, description=, startTime=2019-03-20T16:00:00Z, sourceAttributes=RH, longitude=110}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method status="PASS" signature="getTest(java.util.HashMap)[pri:0, instance:WeatherService.ExternalApiController.GfsGlobal@6e3c1e69]" name="getTest" duration-ms="82" started-at="2019-03-22T18:30:31Z" description="231231" data-provider="ApiData" finished-at="2019-03-22T18:30:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{caseID=Test005, latitude=9, length=24, description=, startTime=2019-03-20T16:00:00Z, sourceAttributes=TMP, longitude=110}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method status="PASS" signature="getTest(java.util.HashMap)[pri:0, instance:WeatherService.ExternalApiController.GfsGlobal@6e3c1e69]" name="getTest" duration-ms="81" started-at="2019-03-22T18:30:31Z" description="231231" data-provider="ApiData" finished-at="2019-03-22T18:30:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{caseID=Test006, latitude=9, length=24, description=, startTime=2019-03-20T16:00:00Z, sourceAttributes=DSWRF, longitude=110}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method status="PASS" signature="getTest(java.util.HashMap)[pri:0, instance:WeatherService.ExternalApiController.GfsGlobal@6e3c1e69]" name="getTest" duration-ms="80" started-at="2019-03-22T18:30:31Z" description="231231" data-provider="ApiData" finished-at="2019-03-22T18:30:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{caseID=Test007, latitude=9, length=24, description=, startTime=2019-03-20T16:00:00Z, sourceAttributes=CLOUD, longitude=110}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method status="PASS" signature="getTest(java.util.HashMap)[pri:0, instance:WeatherService.ExternalApiController.GfsGlobal@6e3c1e69]" name="getTest" duration-ms="73" started-at="2019-03-22T18:30:31Z" description="231231" data-provider="ApiData" finished-at="2019-03-22T18:30:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{caseID=Test008, latitude=9, length=24, description=, startTime=2019-03-20T16:00:00Z, sourceAttributes=RAINFALL, longitude=110}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+      </class> <!-- WeatherService.ExternalApiController.GfsGlobal -->
+      <class name="WeatherService.ApiController.ApiSource">
+        <test-method status="PASS" signature="getTest(java.util.HashMap)[pri:0, instance:WeatherService.ApiController.ApiSource@649d209a]" name="getTest" duration-ms="330" started-at="2019-03-22T18:30:31Z" data-provider="ApiData" finished-at="2019-03-22T18:30:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{caseID=Test001, latitude=30, startTime=2019-03-15T06:00:00Z, source=GFS2, sourceAttribute=WS, longitude=100}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+      </class> <!-- WeatherService.ApiController.ApiSource -->
+    </test> <!-- Tests -->
+  </suite> <!-- kong Api -->
+</testng-results>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FORECAST_HOURLY"
+           tests="12"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.994">
+  <properties />
+  
+  
+            <testcase name="getTest" time="0.079" classname="apim.FORECAST_HOURLY" />
+                <testcase name="getTest" time="0.192" classname="apim.FORECAST_HOURLY" />
+                <testcase name="getTest" time="0.149" classname="apim.FORECAST_HOURLY" />
+                <testcase name="getTest" time="0.207" classname="apim.FORECAST_HOURLY" />
+                <testcase name="getTest" time="0.093" classname="apim.FORECAST_HOURLY" />
+                <testcase name="getTest" time="3.083" classname="apim.FORECAST_HOURLY" />
+                <testcase name="getTest" time="0.085" classname="apim.FORECAST_HOURLY" />
+                <testcase name="getTest" time="0.664" classname="apim.FORECAST_HOURLY" />
+                <testcase name="getTest" time="0.084" classname="apim.FORECAST_HOURLY" />
+                <testcase name="getTest" time="0.165" classname="apim.FORECAST_HOURLY" />
+                <testcase name="getTest" time="0.098" classname="apim.FORECAST_HOURLY" />
+                <testcase name="getTest" time="0.095" classname="apim.FORECAST_HOURLY" />
+      
+</testsuite>

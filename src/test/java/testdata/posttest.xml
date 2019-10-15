@@ -1,0 +1,20 @@
+{
+        "createSchedulePlans": [
+        {
+        "projectId": "16d08d4661118000",
+        "schedulePlanAttr": {
+        "endTime": "2019-03-31T02:11:11Z",
+        "powerLimitedTo": "100",
+        "startTime": "2019-03-29T02:11:11Z"
+        },
+        "sensorId": "16d09ac149118000"
+        }
+        ],
+        "operateTime": "2019-01-21T06:12:02.937Z",
+        "operator": "suqning",
+        "projectId": "16d08d4661118000",
+        "reason": "限制功率为中文",
+        "updateSchedulePlans": [
+        null
+        ]
+        }

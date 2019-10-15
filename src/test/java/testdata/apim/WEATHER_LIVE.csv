@@ -1,0 +1,11 @@
+caseID,longitude,latitude,expectcode,headerskey,headersvalue
+内网国内坐标,140,40,200,null,null
+内网东南亚坐标,114,3,200,null,null
+外网账号坐标为GeoPoint,110,23,200,apim-accessKey,test
+外网账号坐标在GeoPolygon中,125,12.5,200,apim-accessKey,test
+外网账号坐标在GeoPoint和GeoPolygon中都存在,100,10,200,apim-accessKey,test
+外网账号坐标点没有权限,140,40,401,apim-accessKey,test
+外网账号没有接口权限,140,40,401,apim-accessKey,test02
+外网账号disable有接口权限,140,40,401,apim-accessKey,test03
+外网账号disable且没有接口权限,140,40,401,apim-accessKey,test04
+账号不存在,140,40,401,apim-accessKey,test05

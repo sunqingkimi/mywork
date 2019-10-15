@@ -1,0 +1,13 @@
+caseID,weatherelement,longitude,latitude,expectcode,headerskey,headersvalue
+外网账号全部由权限坐标为GeoPoint且有多个数据源,WS10,110,23,200,apim-accessKey,test
+外网账号全部由权限坐标在GeoPolygon中,WD10,85,37.5,200,apim-accessKey,test
+外网账号全部由权限坐标在GeoPoint和GeoPolygon中都存在,T2,84.5,39.5,200,apim-accessKey,test
+外网账号坐标没有权限,T2,83,40,401,apim-accessKey,test
+外网账号全部由权限,PSFC,110,23,200,apim-accessKey,test
+外网账号disable有接口权限,WS10,140,40,401,apim-accessKey,test03
+外网账号disable且没有接口权限,WS10,140,40,401,apim-accessKey,test04
+账号不存在,WS10,140,40,401,apim-accessKey,test05
+账号没有接口权限,WS10,140,40,401,apim-accessKey,test02
+外网账号全部由权限接口不支持该坐标点,WD10,125,12.5,400,apim-accessKey,test
+外网账号元素在supplier没有配置,WS100,110,23,500,apim-accessKey,test
+外网账号没有元素权限,WD100,110,23,401,apim-accessKey,test

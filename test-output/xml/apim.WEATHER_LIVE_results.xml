@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WEATHER_LIVE"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.844">
+  <properties />
+  
+  
+            <testcase name="getTest" time="0.083" classname="apim.WEATHER_LIVE" />
+                <testcase name="getTest" time="0.287" classname="apim.WEATHER_LIVE" />
+                <testcase name="getTest" time="0.189" classname="apim.WEATHER_LIVE" />
+                <testcase name="getTest" time="0.086" classname="apim.WEATHER_LIVE" />
+                <testcase name="getTest" time="0.093" classname="apim.WEATHER_LIVE" />
+                <testcase name="getTest" time="0.085" classname="apim.WEATHER_LIVE" />
+                <testcase name="getTest" time="0.174" classname="apim.WEATHER_LIVE" />
+                <testcase name="getTest" time="0.082" classname="apim.WEATHER_LIVE" />
+                <testcase name="getTest" time="0.300" classname="apim.WEATHER_LIVE" />
+                <testcase name="getTest" time="0.465" classname="apim.WEATHER_LIVE" />
+      
+</testsuite>

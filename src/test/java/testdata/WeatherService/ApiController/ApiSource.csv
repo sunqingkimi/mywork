@@ -1,0 +1,2 @@
+caseID,source,sourceAttribute,startTime,longitude,latitude,expectcode
+Test001,GFS2,WS,2019-03-15T06:00:00Z,100,30,200

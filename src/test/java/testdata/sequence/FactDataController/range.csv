@@ -1,0 +1,3 @@
+caseID,masterId,metrics,statistics,factDataSource,expectcode
+Test001,d41c9775703e4631bbff2fcb4899637e,ACTIVE_POWER,AVG,EEOP,200
+Test002,fcf10c0493ae46bf956b2e22feeecef2,POAI,AVG,EEOP,200

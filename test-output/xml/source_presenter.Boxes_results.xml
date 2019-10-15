@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Boxes"
+           tests="27"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.187">
+  <properties />
+  
+  
+            <testcase name="getTest" time="0.204" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.082" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.075" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.150" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.078" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.271" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.079" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.271" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.075" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.187" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.241" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.077" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.080" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.077" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.078" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.083" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.076" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="3.636" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.455" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.079" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.077" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.205" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.078" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.078" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.244" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.077" classname="source_presenter.Boxes" />
+                <testcase name="getTest" time="0.074" classname="source_presenter.Boxes" />
+      
+</testsuite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Boxes_data"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.463">
+  <properties />
+  
+  
+            <testcase name="getTest" time="1.633" classname="source_presenter.Boxes_data" />
+                <testcase name="getTest" time="2.128" classname="source_presenter.Boxes_data" />
+                <testcase name="getTest" time="0.113" classname="source_presenter.Boxes_data" />
+                <testcase name="getTest" time="0.251" classname="source_presenter.Boxes_data" />
+                <testcase name="getTest" time="0.248" classname="source_presenter.Boxes_data" />
+                <testcase name="getTest" time="0.090" classname="source_presenter.Boxes_data" />
+      
+</testsuite>

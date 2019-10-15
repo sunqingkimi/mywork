@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="surface_data"
+           tests="16"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.857">
+  <properties />
+  
+  
+            <testcase name="getTest" time="0.446" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="1.401" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.202" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.537" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.216" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.622" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.196" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.491" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.238" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.253" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.207" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.560" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.350" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.589" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="2.339" classname="source_presenter.surface_data" />
+                <testcase name="getTest" time="0.210" classname="source_presenter.surface_data" />
+      
+</testsuite>

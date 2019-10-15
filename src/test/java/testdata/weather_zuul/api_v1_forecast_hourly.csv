@@ -1,0 +1,2 @@
+caseID,sourceAttributes,startTime,longitude,latitude,length,expectcode
+test001,WS,2019-04-19T08:00:00Z,126.14,48.17,100,200
